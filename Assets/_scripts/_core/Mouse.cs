@@ -11,7 +11,7 @@ public class Mouse : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetMouseButtonUp(0)) {
+		if (Input.GetMouseButtonUp(0) && !Static.MouseBlocker.MouseIsBlocked()) {
 			mouseClick = Input.mousePosition;
 			Static.Fizzixer.AddRay(new Tuple<WorldObject, Ray>(Static.CameraController, Static.MainCamera.ScreenPointToRay(mouseClick)));
 		}

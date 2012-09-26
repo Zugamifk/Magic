@@ -1,0 +1,9 @@
+TODO:
+--Fix GUI window open/close to use IEnumerators
+--Improve editor stripts to use a window
+
+***********
+-- Add simple spell
+-- Add simple unbound spell
+-- Add fully unbound spell
+-- Develop a good system to represent spells
