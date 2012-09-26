@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_scripts\GuiMaster.cs">
+    <Files>
+      <File FileName="..\Kanji\Assets\Scripts\CatchGame\Dispenser.cs" Line="454" Column="3" />
+      <File FileName="..\GitHub\Survival\Assets\_Scripts\_Core\Control.cs" Line="161" Column="14" />
+      <File FileName="..\GitHub\Survival\Assets\_Scripts\_Utils\Tuples.cs" Line="1" Column="1" />
+      <File FileName="Assets\_scripts\WorldObject.cs" Line="16" Column="17" />
+      <File FileName="Assets\_scripts\MovementController.cs" Line="16" Column="1" />
+      <File FileName="Assets\_scripts\Fizzixer.cs" Line="22" Column="9" />
+      <File FileName="Assets\_scripts\Static.cs" Line="20" Column="9" />
+      <File FileName="Assets\_scripts\_ActionQueues\DAction.cs" Line="1" Column="1" />
+      <File FileName="Assets\_scripts\Control.cs" Line="17" Column="1" />
+      <File FileName="Assets\_scripts\CameraController.cs" Line="18" Column="33" />
+      <File FileName="Assets\_scripts\Wizard.cs" Line="8" Column="9" />
+      <File FileName="Assets\_scripts\GuiMaster.cs" Line="62" Column="22" />
+      <File FileName="..\GitHub\Survival\Assets\_Scripts\_GUIs\TreeGUIRenderer.cs" Line="53" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
